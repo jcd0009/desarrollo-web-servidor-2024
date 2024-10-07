@@ -1,1 +1,1 @@
-Este es el repositorio web de la asignatura "Desarrollo web entorno servidor".
+Este es el repo de web servidor
